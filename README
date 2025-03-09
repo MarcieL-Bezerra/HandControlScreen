@@ -1,0 +1,19 @@
+# Sistema de Rastreamento de Mãos
+
+## Este sistema utiliza a biblioteca MediaPipe e OpenCV para rastrear a posição e os movimentos da mão, permitindo que os usuários controlem o cursor do mouse com gestos de mão.
+
+Funcionalidades
+- Rastreamento de mãos em tempo real
+- Controle do cursor do mouse com gestos de mão
+- Utilização de bibliotecas de código aberto (MediaPipe e OpenCV)
+
+Requisitos
+- Python 3.x
+- OpenCV
+- MediaPipe
+- PyAutoGUI
+
+Instalação
+1. Clone o repositório
+2. Instale as dependências necessárias (pip install -r requirements.txt)
+3. Execute o script (python screen.py)
