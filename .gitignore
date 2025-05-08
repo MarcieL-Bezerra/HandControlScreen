@@ -1,0 +1,30 @@
+# Arquivos de configuração
+*.ini
+*.conf
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+
+# Arquivos de ambiente virtual
+venv/
+env/
+dist/
+build/
+
+# Arquivos de IDE
+.vscode/
+.idea/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de dados
+conversation.txt
+
+# Outros
+*.tmp
